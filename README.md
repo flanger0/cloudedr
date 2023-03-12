@@ -1,4 +1,15 @@
 # cloudedr
+1.下载cloudedr.exe
+使用管理控制台，注册一个新的组织，设置管理密码。
+
+2.使用windows 客户端代理
+下载pcagent.exe
+执行客户端代理,并加入组织。
+
+3.使用centos 客户端代理
+
+
+
 ![image](https://user-images.githubusercontent.com/40160399/204451320-28b6f417-9367-46f2-9131-518b1e6cced6.png)
 
 
