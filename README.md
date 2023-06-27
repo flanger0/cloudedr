@@ -1,7 +1,7 @@
-# cloudedr 解决的痛点
+# cloudedr 介绍
 ![image](https://github.com/flanger0/cloudedr/assets/40160399/109739a3-1680-4f9e-bb3e-d98fb0d92e28)
 
-# Cloudedr 功能部署
+
 ![image](https://github.com/flanger0/cloudedr/assets/40160399/e79d6edb-d1a1-432c-8113-ecafee4f20ec)
 
 
