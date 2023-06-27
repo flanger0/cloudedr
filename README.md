@@ -1,3 +1,10 @@
+# cloudedr 解决的痛点
+![image](https://github.com/flanger0/cloudedr/assets/40160399/109739a3-1680-4f9e-bb3e-d98fb0d92e28)
+
+# Cloudedr 功能部署
+![image](https://github.com/flanger0/cloudedr/assets/40160399/e79d6edb-d1a1-432c-8113-ecafee4f20ec)
+
+
 # cloudedr 安装部署
 
 <br><br>CloudEDR（Cloud Endpoint Detection and Response）可以检测和阻止网络攻击，保护网络安全。可以帮助企业更好地管理资产和网络安全，提供实时的安全信息，及时发现和响应安全威胁，更好地管理安全策略，以及更好地控制网络访问。EDR可以更好地管理安全策略，控制网络访问，提供实时的安全信息，以及更好地控制网络访问。检测和响应恶意软件，及时发现和响应安全威胁。EDR可以帮助企业更好地管理网络安全，以及更好地控制网络访问，从而提高企业的网络安全水平。
